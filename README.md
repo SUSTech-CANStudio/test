@@ -1,4 +1,7 @@
-# project-with-docs
+# Test Project
+测试使用了`project-with-docs`模板，从clone到部署成功仅需5min.
+
+体验良好👍
 
 ## 文档
 
