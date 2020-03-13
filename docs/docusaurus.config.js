@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'Project Name',
+  title: 'Test Project',
   tagline: 'Describe your project in one sentence.', // one sentence description
   url: 'https://sustech-canstudio.github.io',
-  baseUrl: '/project-with-docs/',
+  baseUrl: '/test/',
   favicon: 'img/favicon.ico',
   organizationName: 'SUSTech-CANStudio', // Usually your GitHub org/user name.
-  projectName: 'project-with-docs', // Usually your repo name.
+  projectName: 'test', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Project Name',
+      title: 'Test Project',
       logo: {
         alt: 'SUSTech CANStudio Logo',
         src: 'img/logo.svg',
@@ -23,7 +23,7 @@ module.exports = {
         {href: 'https://SUSTech-CANStudio.github.io/blog', label: 'Blog', position: 'left'},
         {href: 'https://SUSTech-CANStudio.github.io/', label: 'Home', position: 'right'},
         {
-          href: 'https://github.com/SUSTech-CANStudio/project-with-docs',
+          href: 'https://github.com/SUSTech-CANStudio/test',
           label: 'GitHub',
           position: 'right',
         },
@@ -78,7 +78,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/SUSTech-CANStudio/project-with-docs/edit/master/docs/',
+            'https://github.com/SUSTech-CANStudio/test/edit/master/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
